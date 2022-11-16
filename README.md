@@ -45,15 +45,18 @@ The acceptance criteria for this project are as follows:
 
 ## The completed project resembles the following image when deployed:
 
-Full Size desktop view
+Full Size Image of the README
 
-![full size desktop view](./assets/images/alexclaytonbootcamp.github.io_Module-6-Challenge-Weather-Dashboard_.png)
+![full size image of README](./Develop/images/README%20Screenshot.PNG)
 
 
-## URL of the Deployed Application:
+## Usage
 
-[Deployed Application](https://alexclaytonbootcamp.github.io/Module-6-Challenge-Weather-Dashboard/)
+To generate a README, run the following command in the Develop folder:
+
+```
+node index.js [filename]
+```
 
 ## Resources
 
-OpenWeather API Key aa5a9bd886dab3a65130eaa89476e34e
