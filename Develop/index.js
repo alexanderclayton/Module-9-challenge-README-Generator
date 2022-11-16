@@ -70,17 +70,17 @@ ${data.description}
     
 # Table of Contents
     
-* [Installation] (#installation)
+* [Installation](#installation)
     
-* [Usage] (#usage)
+* [Usage](#usage)
     
-* [License] (#license)
+* [License](#license)
     
-* [Contributing] (#contributing)
+* [Contributing](#contributing)
     
-* [Tests] (#tests)
+* [Tests](#tests)
     
-* [Questions] (#questions)
+* [Questions](#questions)
     
 ## Installation
     
@@ -88,25 +88,25 @@ To install necessary dependencies, run the following command:
     
 ${data.dependencies}
     
-## Usage
+# Usage
     
 ${data.ntk}
     
-## License
+# License
     
 This project is licensed under the ${data.license} License.
     
-## Contributing
+# Contributing
     
 ${data.contribution}
     
-## Tests
+# Tests
     
 To run tests, run the following command:
     
 ${data.test}
     
-## Questions
+# Questions
     
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}.  You can find more of my work at [${data.github}] (https://github.com/${data.github}/).`
 

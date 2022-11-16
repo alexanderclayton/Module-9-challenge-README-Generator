@@ -8,42 +8,42 @@ This is a professional README generator using node.js, inquirer, and fs
     
 # Table of Contents
     
-* [Installation](#installation)
+* [Installation] (#installation)
     
-* [Usage](#usage)
+* [Usage] (#usage)
     
-* [License](#license)
+* [License] (#license)
     
-* [Contributing](#contributing)
+* [Contributing] (#contributing)
     
-* [Tests](#tests)
+* [Tests] (#tests)
     
-* [Questions](#questions)
+* [Questions] (#questions)
     
 ## Installation
     
 To install necessary dependencies, run the following command:
     
-npm i
+nmp i
     
-# Usage
+## Usage
     
 This is a professional README generator
     
-# License
+## License
     
 This project is licensed under the APACHE 2.0 License.
     
-# Contributing
+## Contributing
     
 Alex Clayton contributed to this project
     
-# Tests
+## Tests
     
 To run tests, run the following command:
     
 npm test
     
-# Questions
+## Questions
     
 If you have any questions about the repo, open an issue or contact me directly at test@email.com.  You can find more of my work at [alexclaytonbootcamp] (https://github.com/alexclaytonbootcamp/).
