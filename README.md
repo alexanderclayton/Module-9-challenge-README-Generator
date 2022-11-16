@@ -60,5 +60,5 @@ node index.js [filename]
 
 ## Resources
 
-![Walkthrough tutorial recorded using screencastify](https://drive.google.com/file/d/1dNx0RT9M-Qk_wfjQnKdwJE8qLjTiIORH/view)
+[Walkthrough tutorial recorded using screencastify](https://drive.google.com/file/d/1dNx0RT9M-Qk_wfjQnKdwJE8qLjTiIORH/view)
 
